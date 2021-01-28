@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 import { toast } from 'react-toastify';
-import Loader from 'react-loader-spinner';
+
 
 import imagesAPI from '../../service/imagesApi';
 import ImageGallery from '../ImageGallary/ImageGallery';
