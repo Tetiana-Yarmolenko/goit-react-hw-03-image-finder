@@ -1,4 +1,4 @@
-function fetchImage(name, page) {
+function fetchImage(name, page = 1) {
     const KEY = '19139373-51a46ea3c9fa156df343c1c67';
     const BASE_URL = 'https://pixabay.com/api/'
 
